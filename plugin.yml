@@ -1,0 +1,32 @@
+﻿name: StudioAPI
+main: Principal.Main
+author: Haniel
+version: 1.0
+
+commands:
+    Gamemode:
+        aliases: [gm]
+    Clear:
+        aliases: [limpar]
+    Vanish:
+    Hat:
+        aliases: [Chapeu]
+    Head:
+        aliases: [Cabeca]
+    Fly:
+        aliases: [Voar]
+    Kill:
+        aliases: [Matar]
+    V:
+    TP:
+    Dia:
+    Noite:
+    Fome:
+    Give:
+    Vida:
+    warplist:
+    setwarp:
+    delwarp:
+    warp:
+    setspawn:
+    spawn:
